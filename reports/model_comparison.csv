@@ -1,0 +1,4 @@
+Model,Accuracy (%),Placed Precision,Placed Recall,Placed F1-Score
+Random Forest,88.79,0.85,0.76,0.8
+Logistic Regression,86.79,0.8,0.76,0.78
+Decision Tree,84.76,0.75,0.74,0.75

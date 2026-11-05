@@ -1,0 +1,7 @@
+age_years,gender,ssc_percentage,hsc_percentage,degree_percentage,degree_specialization,technical_score,aptitude_score,communication_score,skills_match_percentage,certifications_count,internship_experience,years_of_experience,career_switch_willingness,relevant_experience,previous_ctc_lpa,expected_ctc_lpa,company_tier,job_role_match,competition_level,bond_requirement,notice_period_days,layoff_history,employment_gap_months,relocation_willingness,experience_category,academic_performance_band,skills_match_level,interview_performance_category,placement_probability_score,prediction_result,prediction_date
+22,Male,80.0,80.0,80.0,Computer Science,80.0,80.0,80.0,80.0,3,Yes,2.0,Yes,Yes,5.0,6.0,1,High,Low,Yes,0,Yes,0,Yes,Junior,High,High,Excellent,80.0,PLACED,2026-11-05 10:20:14.470693
+22,Male,80.0,80.0,80.0,Computer Science,80.0,80.0,80.0,80.0,3,Yes,2.0,Yes,Yes,5.0,6.0,1,High,Low,Yes,0,Yes,0,Yes,Junior,High,High,Excellent,80.0,PLACED,2026-11-05 10:23:26.689700
+25,Male,80.0,75.0,70.0,Computer Science,75.0,70.0,70.0,80.0,2,Yes,0.0,Yes,Yes,3.0,5.0,Tier 1,High,Low,Yes,30,Yes,0,Yes,Fresher,Medium,High,Good,74.0,NOT PLACED,2026-11-05 10:30:15
+25,Male,80.0,75.0,70.0,Computer Science,75.0,70.0,70.0,80.0,2,Yes,0.0,Yes,Yes,3.0,5.0,Tier 1,High,Low,Yes,30,Yes,0,Yes,Fresher,Medium,High,Good,74.0,NOT PLACED,2026-11-05 10:31:50
+25,Male,80.0,75.0,70.0,Computer Science,75.0,70.0,70.0,80.0,2,Yes,0.0,Yes,Yes,3.0,5.0,Tier 1,High,Low,Yes,30,Yes,0,Yes,Fresher,Medium,High,Good,74.0,NOT PLACED,2026-11-05 10:33:02
+2026-11-05 10:35:58.310312,0,75.0,22,75.0,75.0,70.0,75.0,80.0
